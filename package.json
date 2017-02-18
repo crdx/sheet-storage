@@ -1,0 +1,12 @@
+{
+    "name": "sheet-storage",
+    "version": "1.0.0",
+    "description": "",
+    "main": "src/index.js",
+    "author": "crdx",
+    "license": "MIT",
+    "dependencies": {
+        "google-auth-library": "^7.0",
+        "googleapis": "^88.0"
+    }
+}
