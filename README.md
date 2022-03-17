@@ -27,4 +27,12 @@ sheetStorage.set('randomness', Math.random())
 
 Column A stores keys, column B stores values.
 
-![ss](img/screenshot.png)
+![](img/screenshot.png)
+
+## Contributions
+
+Open an [issue](https://github.com/crdx/sheet-storage/issues) or send a [pull request](https://github.com/crdx/sheet-storage/pulls).
+
+## Licence
+
+[MIT](LICENCE.md).
