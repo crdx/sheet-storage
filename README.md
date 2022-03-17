@@ -1,6 +1,8 @@
-# sheetStorage
+# sheet-storage
 
-`sheetStorage` behaves the same as `localStorage` (with more-or-less the same API) but stores key/value pairs in a Google Sheet instead. It isn't efficient (no batching or anything) but it's only meant as a quick proof of concept.
+**sheet-storage** is a key-value store with more-or-less the same API as localStorage but stores data in a Google Sheet instead.
+
+It's not efficient (no batching) but it's only meant as a quick proof of concept.
 
 ## Usage
 
