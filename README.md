@@ -37,4 +37,4 @@ Open an [issue](https://github.com/crdx/sheet-storage/issues) or send a [pull re
 
 ## Licence
 
-[MIT](LICENCE.md).
+[GPLv3](LICENCE).
